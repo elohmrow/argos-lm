@@ -1,0 +1,4 @@
+title: bradley
+renderType: freemarker
+templateScript: /something/templates/components/bradley.ftl
+dialog: something:components/bradley

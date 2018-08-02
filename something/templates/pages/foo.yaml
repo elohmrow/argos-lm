@@ -1,0 +1,11 @@
+title: foo
+templateScript: /something/templates/pages/foo.ftl
+renderType: freemarker
+dialog: something:pages/foo
+visible: true
+
+areas:
+  main:
+    availableComponents:
+      bradley:
+        id: something:components/bradley
