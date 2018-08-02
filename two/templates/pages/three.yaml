@@ -1,0 +1,11 @@
+title: three
+templateScript: /two/templates/pages/three.ftl
+renderType: freemarker
+dialog: two:pages/three
+visible: true
+
+areas:
+  main:
+    availableComponents:
+      cool:
+        id: two:components/cool

@@ -1,0 +1,4 @@
+title: cool
+renderType: freemarker
+templateScript: /two/templates/components/cool.ftl
+dialog: two:components/cool
