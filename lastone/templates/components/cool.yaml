@@ -1,0 +1,4 @@
+title: cool
+renderType: freemarker
+templateScript: /lastone/templates/components/cool.ftl
+dialog: lastone:components/cool

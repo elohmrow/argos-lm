@@ -1,0 +1,11 @@
+title: bar
+templateScript: /lastone/templates/pages/bar.ftl
+renderType: freemarker
+dialog: lastone:pages/bar
+visible: true
+
+areas:
+  main:
+    availableComponents:
+      cool:
+        id: lastone:components/cool
