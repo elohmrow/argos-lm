@@ -1,0 +1,4 @@
+title: cool
+renderType: freemarker
+templateScript: /argos/templates/components/cool.ftl
+dialog: argos:components/cool

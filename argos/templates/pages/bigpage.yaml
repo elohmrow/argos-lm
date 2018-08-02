@@ -1,0 +1,11 @@
+title: bigpage
+templateScript: /argos/templates/pages/bigpage.ftl
+renderType: freemarker
+dialog: argos:pages/bigpage
+visible: true
+
+areas:
+  main:
+    availableComponents:
+      cool:
+        id: argos:components/cool
