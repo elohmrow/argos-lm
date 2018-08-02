@@ -31,10 +31,10 @@
       <h1>three works!</h1>
     </div>
 
+[@cms.area name="main"/]
     [#-- use resfn to load all js which matches the globbing pattern or link resources manually or via theme --]
     [#-- ${resfn.js(["/two/.*js"])!} --]
   </body>
 </html>
 
 
-[@cms.area name="main"/]
